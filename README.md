@@ -6,7 +6,7 @@ https://secure.sakura.ad.jp/vps/#/login
 
 https://secure.sakura.ad.jp/menu/service/?mode=S1010&ac=init
 
-#### [vps]()
+#### [vps](https://github.com/takagotch/vps)
 
 
 ```
