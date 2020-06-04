@@ -8,6 +8,8 @@ https://secure.sakura.ad.jp/menu/service/?mode=S1010&ac=init
 
 #### [vps](https://github.com/takagotch/vps)
 
+##### [Old-fashioned rental server](https://www.sakura.ne.jp/)
+
 
 ```
 ```
